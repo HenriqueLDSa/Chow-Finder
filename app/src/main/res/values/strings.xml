@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chow Finder</string>
+    <string name="enter_api_key_text">ENTER API KEY</string>
+    <string name="enter_api_key_ph">enter api key</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="enter_cuisine">enter cuisine</string>
+    <string name="enter_state">enter state</string>
+    <string name="enter_city">enter city</string>
+    <string name="chow_finder">Chow Finder</string>
+    <string name="search">search</string>
+    <string name="new_search">New Search</string>
+    <string name="results">Chow Finder\'s Results</string>
+    <string name="validating_text">Validating…</string>
+    <string name="searching">Searching…</string>
+</resources>
