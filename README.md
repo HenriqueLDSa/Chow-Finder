@@ -1,7 +1,7 @@
 # Chow Finder
 
 ## Introduction
-Chow Finder is an Android mobile application that helps users find restaurants based on city, state, and cuisine. This app is developed using Android Studio and Java, leveraging the capabilities of Gemini's API to fetch and display restaurant information.
+Chow Finder is an Android mobile application that helps users find restaurants based on city, state, and cuisine. This app is developed using Android Studio and Java, leveraging the capabilities of Gemini AI's API to fetch and display restaurant information.
 
 ## Features
 - **Search Restaurants:** Users can search for restaurants by specifying the city, state, and type of cuisine they are interested in.
